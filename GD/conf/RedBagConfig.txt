@@ -1,0 +1,13 @@
+#微信证书路径 certPath = "/opt/cert/apiclient_cert.p12";
+certPath = C:/Users/cert_ptxy_pdk/apiclient_cert.p12;
+#商户相关资料 --公众号
+wxappid = wxa28be1630ebdcd7d;
+appSecret = ac4b0f95ea10a2b2cecbc4b71d9d3ee3;
+#微信支付分配的商户号
+partner = 1496571052;
+#API密钥
+paternerKey = dc0c3bb5f4985920821b0fdf21bb06ee;
+#多少时间刷新一下玩家列表  单位秒
+refreshTime = 1800
+#调用ip
+ip = 120.36.252.252;
